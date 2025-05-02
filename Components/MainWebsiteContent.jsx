@@ -133,7 +133,7 @@ useEffect(() => {
         </div>
 
         <div className="logo">
-          <img src="\public\image.png" alt="logo" />
+          <img src="/image.png" alt="logo" />
         </div>
 
         <div className="nav-bar-content">
